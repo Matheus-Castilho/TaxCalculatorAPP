@@ -62,8 +62,6 @@ This project is a role-based Java application for managing users and calculating
     VALUES ('CCT', 'Dublin', 'Admin', 'User', 'admin');
    ```
 
-```
-
 ## Usage
 
 ### Admin Menu
